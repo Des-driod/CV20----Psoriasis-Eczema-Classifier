@@ -17,7 +17,7 @@ from PIL import Image
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-MODEL_PATH = "eczema_psoriasis_model.h5"
+MODEL_PATH = "eczema_psoriasis_model.keras"
 IMG_SIZE = (224, 224)
 
 # IMPORTANT: this order must match the class_names printed at the end of the
