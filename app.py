@@ -31,6 +31,14 @@ st.set_page_config(
     layout="centered",
 )
 
+#--------------------------------
+#--------------------------------
+#Group Member Contribution 
+#--------------------------------
+#Frederick, Sagelesu Nwiuebari 
+#23/EG/CV/039
+#--------------------------------
+#--------------------------------
 
 @st.cache_resource
 def load_model():
@@ -101,6 +109,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#Frederick, Sagelesu Nwiuebari 
-#23/EG/CV/039
