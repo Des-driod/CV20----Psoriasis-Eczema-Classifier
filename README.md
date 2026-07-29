@@ -36,7 +36,7 @@ scikit-learn
 1.6.1
 joblib
 1.5.3
-🧠 Approach (27-step notebook)
+ Approach (27-step notebook)
 Dataset: "Acne, Psoriasis, Eczema vs All Skin Diseases" dataset (Kaggle, sufiahmad883/acne-psoriasis-eczema-vs-all-skin-diseases), filtered to only the Eczema and Psoriasis classes.
 Split: a genuine three-way split — Training (70%), Validation (15%), Test (15%) — kept as separate, non-overlapping folders, so the final evaluation is on data the model has never seen or been tuned against.
 Visual comparison (Step 16): side-by-side Eczema vs Psoriasis sample grids, plus an average colour-channel comparison (bar chart + tone swatches) to make the visual difference between the two conditions clearer.
