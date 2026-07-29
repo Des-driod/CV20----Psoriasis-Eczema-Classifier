@@ -3,7 +3,7 @@ Group CV20: Psoriasis vs Eczema — Binary Image Classification
 Cloud-deployed CNN application that classifies a skin image as Eczema or Psoriasis, built with TensorFlow/Keras (MobileNetV2 transfer learning) and deployed as a Streamlit web app.
 🔗 Live App
 https://cv20----psoriasis-eczema-classifier.streamlit.app/
-📁 Repository Contents
+Repository Contents
 File
 Purpose
 app.py
