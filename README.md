@@ -16,7 +16,7 @@ CV20_Psoriasis_vs_Eczema_Training_Lab_10.ipynb
 Google Colab notebook (27 steps) used to train and evaluate the model
 README.md
 This file
-🧰 Environment / Package Versions
+ Environment / Package Versions
 Verified in the notebook's Step 2 (Setup):
 Package
 Version
