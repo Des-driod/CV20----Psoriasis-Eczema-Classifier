@@ -81,6 +81,6 @@ Test loss: 0.4751 · Test accuracy: 77.87%
 | Bright, Innocent Ekpe | 23/EG/CV/029 | bright18-ux |
 | Paul, Alpha Francis | 23/EG/CV/009 | alphafrancis272-cyber |
 | Frederick, Sagelesu Nwiuebari | 23/EG/CV/039 | Codedlygit |
-| Akpan, Augustus Augustus | 23/EG/CV/089 | *(pending)* |
+| Akpan, Augustus Augustus | 23/EG/CV/089 | justag750 |
 
 
