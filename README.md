@@ -71,7 +71,7 @@ Test loss: 0.4751 · Test accuracy: 77.87%
 
 > This project addresses binary classification of Psoriasis and Eczema skin images using a MobileNetV2 transfer-learning CNN. The dataset (7,012 images total) was sourced from a public Kaggle skin-disease dataset, filtered to the two target classes and split into training (4,908), validation (1,051), and test (1,053) sets to ensure an honest, leakage-free evaluation. The base network was first trained with frozen weights, then fine-tuned on its top 30 layers with data augmentation (flip, rotation, zoom) to reduce overfitting. A dedicated visual comparison step highlighted typical colour and texture differences between the two conditions. On the held-out test set, the model achieved 77.9% accuracy, with a macro-averaged precision, recall, and F1-score of 0.78. Eczema was classified with higher recall (81%) while Psoriasis was classified with higher precision (82%), reflecting some visual overlap between the two conditions. The trained model was exported as a `.keras` file and served through a Streamlit web application for instant, confidence-scored predictions on uploaded images.
 
-## 👥 Group Members (Group CV20)
+##  Group Members (Group CV20)
 | Name | Registration Number | GitHub Username |
 |---|---|---|
 | Asuquo, Destiny Bassey (Group Leader) | 23/EG/CV/069 | Des-driod |
