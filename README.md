@@ -41,7 +41,7 @@ Verified in the notebook's Step 2 (Setup):
 7. **Precision/Recall/F1 (Step 26)**: extracted into a table and a per-class bar chart for a clear, at-a-glance comparison.
 8. **Deployment**: Streamlit Community Cloud, reading the saved `.keras` model to serve predictions on uploaded images.
 
-## 📊 Results
+## Results
 
 **Dataset split** (7,012 images total: 3,200 Eczema, 3,812 Psoriasis):
 | Split | Eczema | Psoriasis | Total |
